@@ -1,7 +1,7 @@
 {
   "id": "remotely-save-ru",
   "name": "Remotely Save RU",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "0.13.21",
   "description": "Плагин синхронизации Obsidian с Яндекс.Диском, с фиксом ошибки \"429 Too Many Requests\" для Яндекс.Диска и русификацией и <s>блэкджеком</s>.",
   "author": "fyears, azernov, aharito",
