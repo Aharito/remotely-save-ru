@@ -1,11 +1,11 @@
 {
-  "id": "remotely-save",
-  "name": "Remotely Save",
+  "id": "remotely-save-ru",
+  "name": "Remotely Save RU",
   "version": "0.1.0",
   "minAppVersion": "0.13.21",
-  "description": "Yet another unofficial plugin allowing users to synchronize notes between local device and the cloud service.",
-  "author": "fyears",
-  "authorUrl": "https://github.com/fyears",
+  "description": "Плагин синхронизации Obsidian с Яндекс.Диском, с фиксом ошибки \"429 Too Many Requests\" для Яндекс.Диска и русификацией и <s>блэкджеком</s>.",
+  "author": "fyears, azernov, aharito",
+  "authorUrl": "https://github.com/fyears, https://github.com/azernov, https://github.com/aharito",
   "isDesktopOnly": false,
   "fundingUrl": "https://remotelysave.com"
 }
