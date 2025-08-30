@@ -1,6 +1,6 @@
 {
   "name": "remotely-save-ru",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Плагин синхронизации Obsidian с Яндекс.Диском + \"429 Too Many Requests Fix\" + RU.",
   "scripts": {
     "dev2": "node esbuild.config.mjs --watch",
