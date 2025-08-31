@@ -1,8 +1,8 @@
 # Remotely Save RU
 
-Этот форк [плагина Remotely Save для Obsidian](https://github.com/remotely-save/remotely-save) включает [фикс ошибки 429 "Слишком много запросов"](https://github.com/azernov/remotely-save) при синхронизации с Яндекс.Диском, и RU-перевод настроек плагина.
+Этот форк [плагина Remotely Save](https://github.com/remotely-save/remotely-save)  для Obsidian включает [фикс ошибки 429 "Слишком много запросов"](https://github.com/azernov/remotely-save) при синхронизации с Яндекс.Диском, и RU-перевод настроек плагина.
 
-This fork of [Remotely Save Obsidian plugin](https://github.com/remotely-save/remotely-save) includes [fix for "429 Too Many Requests"](https://github.com/azernov/remotely-save) error in Yandex.Disk and RU translate of plugin Settings.
+This fork of Obsidian [Remotely Save plugin](https://github.com/remotely-save/remotely-save) includes [fix for "429 Too Many Requests"](https://github.com/azernov/remotely-save) error in Yandex.Disk and RU translate of plugin Settings.
 
 ## Описание / Readme
 
