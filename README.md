@@ -1,6 +1,7 @@
 ## Fork with Yandex.Disk fix
 This fork includes [fix for "429 Too Many Requests"](https://github.com/azernov/remotely-save) error in Yandex.Disk and Ru translate of Settings.
-Этот форк включает фмкс 429 ошибки "Слишком много запросов" при синхронизации с Яндекс.Диском, и русификацию настроек.
+
+Этот форк включает фикс 429 ошибки "Слишком много запросов" при синхронизации с Яндекс.Диском, и русификацию настроек.
 
 # Remotely Save
 
